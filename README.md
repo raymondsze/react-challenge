@@ -13,7 +13,7 @@ This challenge aims to:
 
 ## Resources
 - React is necessary for this challenge. 
-- Feel free to use the tools of your choice except React.js.  
+- Feel free to use the tools of your choice in addition to React.js.  
 
 ## Questions
 Candidates are expected be able to answer the following questions.  
