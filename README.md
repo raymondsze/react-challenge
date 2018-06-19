@@ -8,7 +8,7 @@ This challenge aims to:
 - How to solve a problem
 
 ## Instructions
-- Implement a Checkbox List like this(https://build-aewmzunccv.now.sh/)
+- Implement a Checkbox List like this(https://build-pubxfqgprt.now.sh/)
 - Please give proper instructions if needed to generate the output files in README.md
 
 ## Resources
